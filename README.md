@@ -15,7 +15,7 @@ It will look for friends for user id 1.
 
 fof - will look for friends-of-friends, 
 
-fs will look for suggested friends.
+fs - will look for suggested friends.
 
 Enjoy!
 
