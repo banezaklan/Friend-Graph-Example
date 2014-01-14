@@ -1,6 +1,9 @@
 cargo-media
 ===========
 
+**Requirements**
+Installed MongoDb php libs. 
+
 **Usage**
 
 Just run:
@@ -12,4 +15,7 @@ It will look for friends for user id 1.
 fof - will look for friends-of-friends, and fs will look for suggested friends.
 
 Enjoy!
+
+**Tests**
+PHPUnit is required.
 
