@@ -17,5 +17,6 @@ fof - will look for friends-of-friends, and fs will look for suggested friends.
 Enjoy!
 
 **Tests**
+
 PHPUnit is required.
 
