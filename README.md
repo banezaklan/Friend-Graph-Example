@@ -1,4 +1,4 @@
-cargo-media
+Friend Graph Example
 ===========
 
 **Requirements**
